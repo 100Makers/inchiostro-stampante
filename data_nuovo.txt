@@ -1,0 +1,4 @@
+0 Magenta 49
+1 Ciano 35
+2 Giallo 12
+3 Nero 10
