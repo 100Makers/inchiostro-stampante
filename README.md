@@ -1,4 +1,4 @@
-# ricevere notifica via mail del livello inchiostro nella stampante
+ricevere notifica via mail del livello inchiostro nella stampante
 # ricordati di avere installato un server mail smtp sulla macchina 
 # server smtp link utile: https://www.tosolini.info/2015/10/postfix-modo-satellite-e-smtp-con-gmail/
 
