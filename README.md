@@ -1,4 +1,4 @@
-# ricevere notifica via mail del livello inchiostro nella stampante
+# ricevere notifica via mail del livello inchiostro nella stampante (testato su stampante "Brother MFC J6520DW")
 
 parametri da impostare in "inchiostro.sh"
 1) cd /home/persorso -> con il proprio percorso 
