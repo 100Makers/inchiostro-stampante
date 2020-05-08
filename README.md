@@ -1,6 +1,6 @@
 # ricevere notifica via mail del livello inchiostro nella stampante
 
-parametri da impostare in inchiostro.sh
+parametri da impostare in "inchiostro.sh"
 1) cd /home/persorso -> con il proprio percorso 
 2) ip_stampante -> con ip server propria stampante
 3) indirizzo_mail -> con indirizzo email destinatario 
